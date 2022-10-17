@@ -9,7 +9,7 @@ https://www.udemy.com/instructor/courses/
 
 Need camera and microphone
 Write the script first
-Try noot to sound sophisticated or conndenscending.
+Try not to sound sophisticated or condescending
 Narrate what is on the screen
 
 If you make a mistake pause and start sentence again. clean later.
