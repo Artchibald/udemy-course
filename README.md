@@ -61,9 +61,32 @@ We should have some fun along the way while we go through everything an artist w
 
 You could then adapt these techniques to create a digital art services business of your own that is relfective of your own style. You could also use this tutorial to create your own highly bespoke website.
 
+## Get a cool client
+
+Ok so the plan for this tutorial is to find a cool business and make them an awesome responsive illustrated web page, we could even hope they use it as their web homepage. Maybe they would use it in an email shout out too. 
+
+Let's write to them !
+
+Hi there XXX,
+
+My name is Archie and I am a professional web developer and artist that lives nearby with nearly 20 years of industry experience.
+
+There is a new project that I am working on right now:
+
+I am making a video tutorial about making a web page with custom art, for a business.
+
+Would you be interested in having a video call for a few minutes to talk about it?
+
+I would like to make XXX the subject business of my video.
+
+Here are some examples of my art:
+
+https://archibaldbutler.com/
+
+I am doing this 100% free too. All I ask for is some of your time for some video calls and some face to face video interviews about the work during the whole creation and afterwards. These will then be included in my video tutorial and published to online learning websites like Udemy and Skillshare.
+
 ## make some vignette story board variations
 
-Ok so the plan for this tutorial is to find a cool business and make them an awesome responsive illustrated web page, we could even hope they use it as their homepage. Maybe they would use it in an email shout out too. 
 
 
 ## get feedback from friends or a business
